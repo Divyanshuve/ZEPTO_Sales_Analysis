@@ -1,5 +1,10 @@
 # ZEPTO_Sales_Analysis
-I have utilized DAX, Power BI, and Excel to create a comprehensive sales dashboard that provides valuable insights into our sales performance. Here are three key objectives and their solutions, along with some useful insights derived from the dashboard.
+I have utilized DAX, Power BI, and Excel to create a comprehensive sales dashboard that provides valuable insights into our sales performance. Here are three key objectives and their solutions, along with some useful insights derived from the dashboard and aslo a glimpse into the process and the outcomes:
+Process:
+1. Data Collection: Gathered sales data from various sources and consolidated it into Excel.
+2. Data Cleaning: Ensured data accuracy and consistency by cleaning and transforming the data in Excel.
+3. Data Modeling: Used DAX to create calculated columns and measures for deeper analysis.
+4. Visualization: Leveraged Power BI to design an interactive and visually appealing dashboard.
 
 Objectives and Solutions:
 1. Objective: Identify the most profitable sales segment.
